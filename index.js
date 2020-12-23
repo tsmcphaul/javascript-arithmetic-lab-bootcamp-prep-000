@@ -14,3 +14,9 @@ function multiply(a,b){
 function divide(a,b){
   return a / b;
 }
+function increment(n){
+  return parseInt('n', 10);
+}
+function decrement(n){
+  return parseFloat('n');
+}
