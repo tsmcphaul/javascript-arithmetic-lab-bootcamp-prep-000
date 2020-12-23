@@ -14,9 +14,9 @@ function multiply(a,b){
 function divide(a,b){
   return a / b;
 }
-function increment(n){
+function makeInt(n){
   return parseInt('n', 10);
 }
-function decrement(n){
+function preserveDecimal(n){
   return parseFloat('n');
 }
