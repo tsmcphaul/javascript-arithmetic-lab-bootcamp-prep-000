@@ -14,6 +14,9 @@ function multiply(a,b){
 function divide(a,b){
   return a / b;
 }
+function increment(n){
+  return 
+}
 function makeInt(n){
   return parseInt(n, 10);
 }
